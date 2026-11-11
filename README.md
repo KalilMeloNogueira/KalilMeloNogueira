@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá! Eu sou Kalil Melo 👋
 
-<!--
-**KalilMeloNogueira/KalilMeloNogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na UNINASSAU, atualmente no 6º período.
 
-Here are some ideas to get you started:
+💻 Tenho interesse em desenvolvimento web e desenvolvimento de sistemas, buscando aprimorar meus conhecimentos e desenvolver projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e conhecimentos
+
+- HTML
+- CSS
+- JavaScript
+- Excel Avançado
+
+### 📌 Projetos em destaque
+
+**MindTech – Bem-estar Digital**
+
+Projeto educativo sobre bem-estar digital, desenvolvido para incentivar o uso consciente da tecnologia.
+
+🔗 [Acessar projeto](https://mindtech-dusky.vercel.app/)
+
+### 🎯 Objetivos
+
+- Aprimorar minhas habilidades em desenvolvimento web.
+- Desenvolver projetos e adquirir experiência prática.
+- Aprender novas tecnologias.
+- Conquistar minha primeira oportunidade profissional na área de TI.
+
+### 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/kalil-melo-b407ab449
+- E-mail: kalilmelonogueira@gmail.com
+
+---
+
+*"Sempre aprendendo, desenvolvendo e evoluindo."*
