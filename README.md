@@ -1,36 +1,32 @@
 # Olá! Eu sou Kalil Melo 👋
 
-🎓 Estudante de Ciência da Computação na UNINASSAU, atualmente no 6º período.
+🎓 Estudante de Ciência da Computação na UNINASSAU.
 
-💻 Tenho interesse em desenvolvimento web e desenvolvimento de sistemas, buscando aprimorar meus conhecimentos e desenvolver projetos práticos.
+💻 Interessado em tecnologia e desenvolvimento de software, com foco em desenvolvimento web.
 
-### 🚀 Tecnologias e conhecimentos
+### 🛠️ Tecnologias e ferramentas
 
 - HTML
 - CSS
 - JavaScript
 - Excel Avançado
 
-### 📌 Projetos em destaque
+### 🚀 Projetos
 
-**MindTech – Bem-estar Digital**
+**MindTech — Bem-estar Digital**
 
-Projeto educativo sobre bem-estar digital, desenvolvido para incentivar o uso consciente da tecnologia.
+Projeto voltado à conscientização sobre o uso da tecnologia e o bem-estar digital.
 
 🔗 [Acessar projeto](https://mindtech-dusky.vercel.app/)
 
-### 🎯 Objetivos
+### 📚 Atualmente
 
-- Aprimorar minhas habilidades em desenvolvimento web.
-- Desenvolver projetos e adquirir experiência prática.
-- Aprender novas tecnologias.
-- Conquistar minha primeira oportunidade profissional na área de TI.
+- Cursando o 6º período de Ciência da Computação.
+- Desenvolvendo projetos práticos.
+- Aprimorando conhecimentos em desenvolvimento web.
 
 ### 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/kalil-melo-b407ab449
-- E-mail: kalilmelonogueira@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/kalil-melo-b407ab449)
+- [E-mail](mailto:kalilmelonogueira@gmail.com)
 
----
-
-*"Sempre aprendendo, desenvolvendo e evoluindo."*
